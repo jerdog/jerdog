@@ -15,5 +15,5 @@
 </p>
 
 <p align="center">
-<em>Created via [rahuldkjain/github-profile-readme-generator](https://github.com/rahuldkjain/github-profile-readme-generator)</em>
+<em>Created via <a href="https://github.com/rahuldkjain/github-profile-readme-generator">rahuldkjain/github-profile-readme-generator</a></em>
 </p>
