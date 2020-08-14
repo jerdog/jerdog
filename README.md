@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working at [CircleCI as Global Head of Developer Relations & Community](https://circleci.com)
 
-### Blogs posts
+### Blog posts
 <!-- BLOG-POST-LIST:START -->
 - [Broaden your Community and Developer Relations reach through collaboration](https://dev.to/jerdog/broaden-your-community-and-developer-relations-reach-through-collaboration-413)
 - [DevOps before there was DevOps, 20yr old style](https://dev.to/jerdog/devops-before-there-was-devops-20yr-old-style-3l76)
