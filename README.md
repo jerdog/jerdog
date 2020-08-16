@@ -7,7 +7,7 @@
 <!-- BLOG-POST-LIST:START -->
 - [Broaden your Community and Developer Relations reach through collaboration](https://dev.to/jerdog/broaden-your-community-and-developer-relations-reach-through-collaboration-413)
 - [DevOps before there was DevOps, 20yr old style](https://dev.to/jerdog/devops-before-there-was-devops-20yr-old-style-3l76)
-- [Taking our Commitment to Developers to the Next Level ](https://dev.to/solacedevs/taking-our-commitment-to-developers-to-the-next-level-45b6)
+- [Taking our Commitment to Developers to the Next Level](https://dev.to/solacedevs/taking-our-commitment-to-developers-to-the-next-level-45b6)
 - [The challenge of preparing to give someone else's talk](https://dev.to/jerdog/the-challenge-of-preparing-to-give-someone-else-s-talk-3ead)
 - [How to Deploy a Solace PubSub+ Event Broker to DigitalOcean](https://dev.to/solacedevs/how-to-deploy-a-solace-pubsub-event-broker-to-digitalocean-1afc)
 <!-- BLOG-POST-LIST:END -->
