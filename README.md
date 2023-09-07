@@ -16,7 +16,7 @@
 <!-- BLOG-POST-LIST:END -->
 
 <p align="center">
-<a href="https://dev.to/jerdog" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="jerdog" height="30" width="30" /></a>
+<a href="https://dev.to/jerdog" target="blank"><img align="center" style="border:1px solid white;" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="jerdog" height="30" width="30" /></a>
 <a href="https://twitter.com/iamjerdog" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="iamjerdog" height="30" width="30" /></a>
 <a href="https://linkedin.com/in/jeremymeiss" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="jeremymeiss" height="30" width="30" /></a>
 <a href="https://stackoverflow.com/users/jerdog" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="jerdog" height="30" width="30" /></a>
