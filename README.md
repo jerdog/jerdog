@@ -5,6 +5,9 @@
 
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [SERIES: Moving Developer Relations Forward](https://dev.to/jerdog/moving-developer-relations-forward-lg5)
+- [So you're starting a new DevRel role...](https://dev.to/jerdog/so-youre-starting-a-new-devrel-job-277e)
+- [Config best practices: Docker layer caching](https://dev.to/circleci/config-best-practices-docker-layer-caching-3m0)
 - [Broaden your Community and Developer Relations reach through collaboration](https://dev.to/jerdog/broaden-your-community-and-developer-relations-reach-through-collaboration-413)
 - [DevOps before there was DevOps, 20yr old style](https://dev.to/jerdog/devops-before-there-was-devops-20yr-old-style-3l76)
 - [Taking our Commitment to Developers to the Next Level](https://dev.to/solacedevs/taking-our-commitment-to-developers-to-the-next-level-45b6)
