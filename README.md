@@ -5,14 +5,11 @@
 
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [SERIES: Moving Developer Relations Forward](https://dev.to/jerdog/moving-developer-relations-forward-lg5)
-- [So you're starting a new DevRel role...](https://dev.to/jerdog/so-youre-starting-a-new-devrel-job-277e)
-- [Config best practices: Docker layer caching](https://dev.to/circleci/config-best-practices-docker-layer-caching-3m0)
-- [Broaden your Community and Developer Relations reach through collaboration](https://dev.to/jerdog/broaden-your-community-and-developer-relations-reach-through-collaboration-413)
-- [DevOps before there was DevOps, 20yr old style](https://dev.to/jerdog/devops-before-there-was-devops-20yr-old-style-3l76)
-- [Taking our Commitment to Developers to the Next Level](https://dev.to/solacedevs/taking-our-commitment-to-developers-to-the-next-level-45b6)
-- [The challenge of preparing to give someone else's talk](https://dev.to/jerdog/the-challenge-of-preparing-to-give-someone-else-s-talk-3ead)
-- [How to Deploy a Solace PubSub+ Event Broker to DigitalOcean](https://dev.to/solacedevs/how-to-deploy-a-solace-pubsub-event-broker-to-digitalocean-1afc)
+- [Positioning DevRel as a resource within your company](https://dev.to/jerdog/positioning-devrel-as-a-resource-within-your-company-4cna)
+- [Developer Relations and the customer journey](https://dev.to/jerdog/devrel-and-the-customer-journey-4gjc)
+- [Asking the right questions for DevRel impact](https://dev.to/jerdog/asking-the-right-questions-for-devrel-impact-2nan)
+- [The foundations of Developer Relations](https://dev.to/jerdog/the-foundations-of-devrel-o55)
+- [Moving Developer Relations Forward](https://dev.to/jerdog/moving-developer-relations-forward-lg5)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="center">
