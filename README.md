@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jeremy</h1>
 <h3 align="center">DevRel / Community Professional, Herder of cats</h3>
 
-- 🔭 I’m currently working at [CircleCI as Global Head of Developer Relations & Community](https://circleci.com)
+- 🔭 I’m [currently looking](https://www.linkedin.com/posts/jeremymeiss_opentowork-activity-7098015572847706112-C228?utm_source=share&utm_medium=member_desktop) for my next DevRel / Community role. 
 
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
