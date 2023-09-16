@@ -6,6 +6,9 @@
 {{ formatTime .UpdatedAt }}
 
 ### Blog posts
+
+{{ template "article-table" .Articles }}
+
 <!-- BLOG-POST-LIST:START -->
 - [Positioning DevRel as a resource within your company](https://dev.to/jerdog/positioning-devrel-as-a-resource-within-your-company-4cna)
 - [Developer Relations and the customer journey](https://dev.to/jerdog/devrel-and-the-customer-journey-4gjc)
