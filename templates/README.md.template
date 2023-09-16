@@ -5,17 +5,9 @@
 
 - 🔭 I’m [currently looking](https://www.linkedin.com/posts/jeremymeiss_opentowork-activity-7098015572847706112-C228?utm_source=share&utm_medium=member_desktop) for my next DevRel / Community role. 
 
-### Blog posts
+### Recent blog posts on `Dev.to`
 
-{{ template "article-table" .Articles }}
-
-<!-- BLOG-POST-LIST:START -->
-- [Positioning DevRel as a resource within your company](https://dev.to/jerdog/positioning-devrel-as-a-resource-within-your-company-4cna)
-- [Developer Relations and the customer journey](https://dev.to/jerdog/devrel-and-the-customer-journey-4gjc)
-- [Asking the right questions for DevRel impact](https://dev.to/jerdog/asking-the-right-questions-for-devrel-impact-2nan)
-- [The foundations of Developer Relations](https://dev.to/jerdog/the-foundations-of-devrel-o55)
-- [Moving Developer Relations Forward](https://dev.to/jerdog/moving-developer-relations-forward-lg5)
-<!-- BLOG-POST-LIST:END -->
+{{ template "article-list" .Articles }}
 
 <p align="center">
 <a href="https://dev.to/jerdog" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="jerdog" height="30" width="30" /></a>
