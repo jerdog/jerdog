@@ -3,12 +3,24 @@ on:
   schedule:
     # Runs every hour
     - cron: '0 * * * *'
+
 jobs:
-  update-readme-with-blog:
-    name: Update this repo's README with latest blog posts
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v2
-      - uses: gautamkrishnar/blog-post-workflow@master
-        with:
-          feed_list: "https://dev.to/feed/jerdog" 
+    update-articles:
+        permissions: write-all
+        runs-on: ubuntu-latest
+        steps:
+            - uses: actions/checkout@v3
+            - name: Generate README
+              uses: huantt/article-listing@v1.1.0
+              with:
+                username: jerdog                
+                template-file: 'README.md.template'
+                out-file: 'README.md'
+                limit: 10
+            - name: Commit
+              run: |
+                git config user.name github-actions
+                git config user.email github-actions@github.com
+                git add .
+                git commit -m "update articles"
+                git push origin master
