@@ -3,6 +3,8 @@
 
 - 🔭 I’m [currently looking](https://www.linkedin.com/posts/jeremymeiss_opentowork-activity-7098015572847706112-C228?utm_source=share&utm_medium=member_desktop) for my next DevRel / Community role. 
 
+{{ formatTime .UpdatedAt }}
+
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
 - [Positioning DevRel as a resource within your company](https://dev.to/jerdog/positioning-devrel-as-a-resource-within-your-company-4cna)
