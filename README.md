@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jeremy</h1>
 <h3 align="center">DevRel / Community Professional, Herder of cats</h3>
 
-*Updated at: 2023-09-19T07:01:24Z*
+*Updated at: 2023-09-19T08:01:30Z*
 
 - 🔭 I’m [currently looking](https://www.linkedin.com/posts/jeremymeiss_opentowork-activity-7098015572847706112-C228?utm_source=share&utm_medium=member_desktop) for my next DevRel / Community role. 
 
@@ -26,3 +26,6 @@
 <a href="https://stackoverflow.com/users/jerdog" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="jerdog" height="30" width="30" /></a>
 </p>
 
+<p align="center">
+<em>Created via <a href="https://github.com/rahuldkjain/github-profile-readme-generator">rahuldkjain/github-profile-readme-generator</a></em>
+</p>
