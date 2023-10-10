@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jeremy</h1>
 <h3 align="center">DevRel / Community Professional, Herder of cats</h3>
 
-*Updated at: 2023-10-10T14:01:31Z*
+*Updated at: 2023-10-10T15:01:29Z*
 
 - 🔭 I’m [currently looking](https://www.linkedin.com/posts/jeremymeiss_opentowork-activity-7098015572847706112-C228?utm_source=share&utm_medium=member_desktop) for my next DevRel / Community role. 
 
