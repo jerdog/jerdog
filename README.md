@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jeremy</h1>
 <h3 align="center">DevRel / Community Professional, Herder of cats</h3>
 
-*Updated at: 2024-05-27T19:01:01Z*
+*Updated at: 2024-05-27T20:01:09Z*
 
 - 🔭 I’m [currently looking](https://www.linkedin.com/posts/jeremymeiss_opentowork-activity-7098015572847706112-C228?utm_source=share&utm_medium=member_desktop) for my next DevRel / Community role. 
 
@@ -10,6 +10,7 @@
 
 - [The role of CI/CD interoperability in Developer Experience](https://dev.to/jerdog/the-role-of-cicd-interoperability-in-developer-experience-26dl) - 21/05/2024
 - [Streamlining your Developer Experience through CI/CD standardization](https://dev.to/jerdog/streamlining-your-developer-experience-through-cicd-standardization-54ab) - 21/05/2024
+- [So let&#39;s talk about DevRel metrics](https://dev.to/jerdog/so-lets-talk-about-devrel-metrics-and-impact-1chm) - 15/09/2023
 - [Positioning DevRel as a resource within your company](https://dev.to/jerdog/positioning-devrel-as-a-resource-within-your-company-4cna) - 06/09/2023
 - [Developer Relations and the customer journey](https://dev.to/jerdog/devrel-and-the-customer-journey-4gjc) - 06/09/2023
 - [Asking the right questions for DevRel impact](https://dev.to/jerdog/asking-the-right-questions-for-devrel-impact-2nan) - 06/09/2023
@@ -17,7 +18,6 @@
 - [Moving Developer Relations Forward](https://dev.to/jerdog/moving-developer-relations-forward-lg5) - 06/09/2023
 - [So you’re starting a new DevRel Job…](https://dev.to/jerdog/so-youre-starting-a-new-devrel-job-277e) - 01/12/2022
 - [Config best practices: Docker layer caching](https://dev.to/circleci/config-best-practices-docker-layer-caching-3m0) - 11/01/2022
-- [Broaden your Community and Developer Relations reach through collaboration](https://dev.to/jerdog/broaden-your-community-and-developer-relations-reach-through-collaboration-413) - 30/01/2020
 
 <p align="center">
 <a href="https://dev.to/jerdog" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="jerdog" height="30" width="30" /></a>
