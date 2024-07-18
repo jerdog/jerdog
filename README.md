@@ -1,13 +1,14 @@
 <h1 align="center">Hi 👋, I'm Jeremy</h1>
 <h3 align="center">DevRel / Community Professional, Herder of cats</h3>
 
-*Updated at: 2024-07-18T20:01:06Z*
+*Updated at: 2024-07-18T21:01:06Z*
 
 - 🔭 I’m [currently looking](https://www.linkedin.com/posts/jeremymeiss_opentowork-activity-7098015572847706112-C228?utm_source=share&utm_medium=member_desktop) for my next DevRel / Community role. 
 
 ### Recent blog posts on `Dev.to`
 
 
+- [Measuring the impact of Developer Relations on Revenue](https://dev.to/jerdog/measuring-the-impact-of-developer-relations-on-revenue-17ia) - 12/07/2024
 - [Developer Experience is essential for DevOps success](https://dev.to/jerdog/developer-experience-is-essential-for-devops-success-18nc) - 13/06/2024
 - [From Text Editors to Cloud-based IDEs - a DevEx journey](https://dev.to/jerdog/from-text-editors-to-cloud-based-ides-a-devex-journey-312a) - 10/06/2024
 - [The role of CI/CD interoperability in Developer Experience](https://dev.to/jerdog/the-role-of-cicd-interoperability-in-developer-experience-26dl) - 21/05/2024
@@ -17,7 +18,6 @@
 - [Developer Relations and the customer journey](https://dev.to/jerdog/devrel-and-the-customer-journey-4gjc) - 06/09/2023
 - [Asking the right questions for DevRel impact](https://dev.to/jerdog/asking-the-right-questions-for-devrel-impact-2nan) - 06/09/2023
 - [The foundations of Developer Relations](https://dev.to/jerdog/the-foundations-of-devrel-o55) - 06/09/2023
-- [Moving Developer Relations Forward](https://dev.to/jerdog/moving-developer-relations-forward-lg5) - 06/09/2023
 
 <p align="center">
 <a href="https://dev.to/jerdog" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="jerdog" height="30" width="30" /></a>
