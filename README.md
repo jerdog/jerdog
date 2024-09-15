@@ -3,7 +3,7 @@
 
 *Updated at: 2024-09-15T11:01:04Z*
 
-- 🔭 I’m [currently looking](https://www.linkedin.com/posts/jeremymeiss_opentowork-activity-7098015572847706112-C228?utm_source=share&utm_medium=member_desktop) for my next DevRel / Community role. 
+<!-- - 🔭 I’m [currently looking](https://www.linkedin.com/posts/jeremymeiss_opentowork-activity-7098015572847706112-C228?utm_source=share&utm_medium=member_desktop) for my next DevRel / Community role. -->
 
 ### Recent blog posts on `Dev.to`
 
