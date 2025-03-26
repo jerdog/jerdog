@@ -1,13 +1,14 @@
 <h1 align="center">Hi 👋, I'm Jeremy</h1>
 <h3 align="center">DevRel / Community Professional, Herder of cats</h3>
 
-*Updated at: 2025-03-26T10:01:02Z*
+*Updated at: 2025-03-26T11:01:03Z*
 
 
 
 ### Recent blog posts on `Dev.to`
 
 
+- [[Boost]](https://dev.to/jerdog/-23a3) - 24/03/2025
 - [Measuring the impact of Developer Relations on Revenue](https://dev.to/jerdog/measuring-the-impact-of-developer-relations-on-revenue-17ia) - 12/07/2024
 - [Developer Experience is essential for DevOps success](https://dev.to/jerdog/developer-experience-is-essential-for-devops-success-18nc) - 13/06/2024
 - [From Text Editors to Cloud-based IDEs - a DevEx journey](https://dev.to/jerdog/from-text-editors-to-cloud-based-ides-a-devex-journey-312a) - 10/06/2024
@@ -17,7 +18,6 @@
 - [Positioning DevRel as a resource within your company](https://dev.to/jerdog/positioning-devrel-as-a-resource-within-your-company-4cna) - 06/09/2023
 - [Developer Relations and the customer journey](https://dev.to/jerdog/devrel-and-the-customer-journey-4gjc) - 06/09/2023
 - [Asking the right questions for DevRel impact](https://dev.to/jerdog/asking-the-right-questions-for-devrel-impact-2nan) - 06/09/2023
-- [The foundations of Developer Relations](https://dev.to/jerdog/the-foundations-of-devrel-o55) - 06/09/2023
 
 <p align="center">
 <a href="https://dev.to/jerdog" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="jerdog" height="30" width="30" /></a>
