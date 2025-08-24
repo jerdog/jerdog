@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jeremy</h1>
-<h3 align="center">DevRel / Community Professional, Herder of cats, and Chief Errand Officer</h3>
+<h3 align="center">DevRel / Community Professional, Herder of cats</h3>
 
-*Updated at: 2025-08-24T13:06:42Z*
+*Updated at: 2025-08-24T14:00:55Z*
 
 
 
