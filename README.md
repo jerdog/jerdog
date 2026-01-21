@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jeremy</h1>
 <h3 align="center">DevRel / Community Professional, Herder of cats</h3>
 
-*Updated at: 2026-01-21T17:19:15Z*
+*Updated at: 2026-01-21T18:10:14Z*
 
 
 
