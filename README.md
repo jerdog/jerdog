@@ -1,13 +1,14 @@
 <h1 align="center">Hi 👋, I'm Jeremy</h1>
 <h3 align="center">DevRel / Community Professional, Herder of cats</h3>
 
-*Updated at: 2026-02-26T17:19:56Z*
+*Updated at: 2026-02-26T18:10:47Z*
 
 
 
 ### Recent blog posts on `Dev.to`
 
 
+- [Developer Experience is More Than Just Productivity Metrics](https://dev.to/jerdog/developer-experience-is-more-than-just-productivity-metrics-4a2o) - 26/01/2026
 - [It&#39;s Not Rocket Science, It&#39;s a Flywheel: Engineering Open Source...](https://dev.to/jerdog/its-not-rocket-science-its-a-flywheel-engineering-open-source-communities-with-devex-4id2) - 15/12/2025
 - [Measuring the impact of Developer Relations on Revenue](https://dev.to/jerdog/measuring-the-impact-of-developer-relations-on-revenue-17ia) - 12/07/2024
 - [Developer Experience is essential for DevOps success](https://dev.to/jerdog/developer-experience-is-essential-for-devops-success-18nc) - 13/06/2024
@@ -17,7 +18,6 @@
 - [So let&#39;s talk about DevRel metrics](https://dev.to/jerdog/so-lets-talk-about-devrel-metrics-and-impact-1chm) - 15/09/2023
 - [Positioning DevRel as a resource within your company](https://dev.to/jerdog/positioning-devrel-as-a-resource-within-your-company-4cna) - 06/09/2023
 - [Developer Relations and the customer journey](https://dev.to/jerdog/devrel-and-the-customer-journey-4gjc) - 06/09/2023
-- [Asking the right questions for DevRel impact](https://dev.to/jerdog/asking-the-right-questions-for-devrel-impact-2nan) - 06/09/2023
 
 <p align="center">
 <a href="https://dev.to/jerdog" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="jerdog" height="30" width="30" /></a>
